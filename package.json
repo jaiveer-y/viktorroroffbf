@@ -1,0 +1,28 @@
+{
+  "name": "viktor",
+  "version": "1.0.0",
+  "description": "private property",
+  "main": "discordBot.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "package.json": "^2.0.1",
+    "ytdl": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node discordBot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaan-yadav/DiscordBot-1.git"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "jaiveer yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaan-yadav/DiscordBot-1/issues"
+  },
+  "homepage": "https://github.com/Shaan-yadav/DiscordBot-1#readme"
+}
